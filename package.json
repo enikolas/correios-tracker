@@ -1,0 +1,17 @@
+{
+  "name": "correios-tracker",
+  "description": "A Brazilian National Post (Correios) tracker.",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Everton Nikolas de Oliveira",
+    "email": "enikolas.oliveira@gmail.com"
+  },
+  "private": false,
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5"
+  }
+}
