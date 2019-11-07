@@ -4,6 +4,10 @@
   "version": "0.0.1",
   "main": "index.js",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/enikolas/correios-tracker"
+  },
   "author": {
     "name": "Everton Nikolas de Oliveira",
     "email": "enikolas.oliveira@gmail.com"
